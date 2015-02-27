@@ -1,0 +1,13 @@
+table {
+	border: 3px #000 solid;
+}
+
+
+th, td {
+	padding: 0.5em;
+	text-align: center;
+}
+
+img {
+	width: 30em;
+}
